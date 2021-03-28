@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Angeliz Diaz Sierra\n"
+    cout<<"Manuela Meléndez Pérez\n"
         <<"Calle El Manantial #1234\n"
         <<"Rincón, PR 00243\n\n"
         <<"Tel: (787) 123-3765 \n\n"
